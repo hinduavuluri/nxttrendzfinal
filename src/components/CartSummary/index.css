@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.summary-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin: 30px;
+}
+.total {
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: bold;
+  color: #616e7c;
+}
+.price {
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: bold;
+  color: #171f46;
+}
+.cart-length {
+  font-family: roboto;
+  font-size: 12px;
+  color: #616e7c;
+}
+.button{
+  background-color: #0b69ff;
+  width: 300px;
+  padding: 15px;
+  border-width: 0px;
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
