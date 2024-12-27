@@ -45,3 +45,17 @@
 }
 
 /* Write your CSS here */
+.payment-options {
+  list-style-type: none;
+}
+.payment-item {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: green;
+}
+.button-confirm{
+  background-color: #0b69ff;
+  border-width: 0px;
+  height: 40px;
+  border-radius: 6px;
+}
